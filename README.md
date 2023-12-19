@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAF3ZmQvWUo/view)](https://www.canva.com/design/DAF3ZmQvWUo/view)
+[![MasterHead](https://www.canva.com/design/DAF3ZmQvWUo/view)](https://www.canva.com/design/DAF3ZmQvWUo)
 <h1 align="center">Hi 👋, I'm Danish Mushtaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="coder-image here" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcontent.techgig.com%2Fupskilling-at-techgig%2Ftop-5-games-for-programmers-to-polish-their-coding-skills%2Farticleshow%2F81427724.cms&psig=AOvVaw1-5xMt5rTFjLsP_3Qu26tT&ust=1703054356531000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi7sYzymoMDFQAAAAAdAAAAABAJ" width="400px"/>
+<img alt="coder-image here" src="https://mcdn.wallpapersafari.com/medium/67/53/UukaGZ.jpg" width="400px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish49&label=Profile%20views&color=0e75b6&style=flat" alt="danish49" /> </p>
 
