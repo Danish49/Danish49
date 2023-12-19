@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAF3ZmQvWUo/view)](https://www.canva.com/design/DAF3ZmQvWUo)
+
 <h1 align="center">Hi 👋, I'm Danish Mushtaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="coder-image here" src="https://mcdn.wallpapersafari.com/medium/67/53/UukaGZ.jpg" width="400px"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish49&label=Profile%20views&color=0e75b6&style=flat" alt="danish49" /> </p>
 
