@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Danish Mushtaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-# 💫 About Me:
+<h2>💫 About Me<h2/>
 Danish is a passionate web development student diving into the world of frontend development. Equipped with skills in HTML, CSS, Bootstrap, JavaScript, React, and more, I thrive on crafting engaging user experiences. My love for JavaScript knows no bounds—I could talk about it endlessly!<br><br>🚀 My aim? To carve a path as a successful React developer and make waves in the tech industry. I'm constantly learning and exploring, striving to bring creative ideas to life through code.<br><br>🌟 Let's connect and build something awesome together!<br>
 
 
