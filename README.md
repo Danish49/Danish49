@@ -1,4 +1,4 @@
-![Header](20231223_132637_0000.png)
+![Header](https://drive.google.com/file/d/1pC7JY0JUQTwwFHOg7CcAM9VkTIA2dNAA/view?usp=drivesdk)
 
 <h1 align="center">Hi 👋, I'm Danish Mushtaq</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
